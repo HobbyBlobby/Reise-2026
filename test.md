@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 21. Juli - Testseite
 
 ## Das ist ein Test
