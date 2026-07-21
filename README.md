@@ -9,4 +9,4 @@ Ein Projekt mit Github Pages erstellt.
 2) Texte bearbeiten mit [Markor](https://github.com/gsantner/markor), Bilder können direkt im WYSIWYG-Editor eingebunden werden (auf relativen Pfad achten)
 3) Änderungen mittels [MGit](https://github.com/maks/MGit) commiten und pushen.
 4) Github macht seine *Magie*, um die Seite per *Jekyll* zu erstellen.
-5) Seite anschauen auf: [https://hobbyblobby.github.io/Reise-2026/]
+5) Seite anschauen auf: <https://hobbyblobby.github.io/Reise-2026/>
