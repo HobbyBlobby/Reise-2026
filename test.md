@@ -8,4 +8,4 @@
 
 Lorem Ipsum ...
 
-[Zurück zur Übersicht](/)
+[Zurück zur Übersicht](/Reise-2026)
