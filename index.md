@@ -12,7 +12,7 @@ Klicke den Link für den entsprechenden Reiseabschnitt.
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="Reise-2026/{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
