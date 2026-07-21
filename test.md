@@ -6,6 +6,6 @@
 
 ![Testbild](./photos/Screenshot_20260721_124609.png)
 
-Lorem Ipsum ...
+Lorem Ipsum ... bearbeitet mobil.
 
 [Zurück zur Übersicht](/Reise-2026)
