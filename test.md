@@ -8,4 +8,6 @@
 
 Lorem Ipsum ... bearbeitet mobil.
 
+![Noch ein Testbild über Handy bereitgestellt] (./photos/IMG_20260719_142748.jpg)
+
 [Zurück zur Übersicht](/Reise-2026)
