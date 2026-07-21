@@ -4,7 +4,7 @@
 
 - mit einem Bild
 
-![Testbild]("./photos/Screenshot_20260721_124609.png")
+![Testbild](./photos/Screenshot_20260721_124609.png)
 
 Lorem Ipsum ...
 
