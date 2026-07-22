@@ -19,3 +19,18 @@ header h2 {
 header h1 {
   text-shadow: -1px -1px 0 var(--color-shadow), 1px -1px 0 var(--color-shadow), -1px 1px 0 var(--color-shadow), 1px 1px 0 var(--color-shadow);
 }
+
+#main-content img {
+  max-height: 80vh;
+  margin-inline: auto;
+  display: block;
+}
+
+#main-content {
+  float: left;
+  width: calc(100% - 220px);
+}
+
+.inner {
+  width: 80%;
+}
