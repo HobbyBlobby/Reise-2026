@@ -2,12 +2,11 @@
 layout: default
 ---
 
-# Reise-2026
-Ein Reisetagebuch für mein kleines Abenteuer.
+# Übersicht
+Diese Seite dient als Reistagebuch. Beständiger und schöner als eine WhatsApp-Status. 
+Wer gerne stöbern möchte, ist gerne dazu eingeladen. 
 
-Klicke den Link für den entsprechenden Reiseabschnitt.
-
-## Reisetagebuch
+## Reisetagebuch: Die Kapitel
 
 <ul>
   {% for post in site.posts %}
@@ -16,5 +15,3 @@ Klicke den Link für den entsprechenden Reiseabschnitt.
     </li>
   {% endfor %}
 </ul>
-
-[Nur eine Testseite](./test.md)
