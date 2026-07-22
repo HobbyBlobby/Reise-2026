@@ -12,6 +12,7 @@ Wer gerne stöbern möchte, ist gerne dazu eingeladen.
   {% for post in site.posts %}
     <li>
       <a href="/Reise-2026{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>
