@@ -15,7 +15,7 @@ Wer gerne stöbern möchte, ist gerne dazu eingeladen.
       {{ post.excerpt }}
     </li>
     <li><a href="./test">Testseite</a>
-        Some test content to explorer capabilities.
+        <p>Some test content to explorer capabilities.</p>
     </li>
   {% endfor %}
 </ul>
