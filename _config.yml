@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Meine Reise
+title: Kleines Reisetagebuch
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Ein kleiner Überblick meiner Reise mit Bildern.
-  Und der Chance auf eine kleine Raterunde. Wo bin ich wohl gerade?
+  Ein kleiner Überblick meiner Reise in Bild und Text.
+  Und eine Chance auf eine kleine Raterunde. Wo bin ich wohl gerade?
 baseurl: "/Reise-2026" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
