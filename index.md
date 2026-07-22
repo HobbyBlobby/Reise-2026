@@ -14,5 +14,8 @@ Wer gerne stöbern möchte, ist gerne dazu eingeladen.
       <a href="/Reise-2026{{ post.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
     </li>
+    <li><a href="/test">Testseite</a>
+        Some test content to explorer capabilities.
+    </li>
   {% endfor %}
 </ul>
