@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 ---
 
 # 21. Juli - Testseite
