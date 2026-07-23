@@ -40,10 +40,10 @@ header h1 {
   display: none;
 }
 
-aside a.button {
-  padding-top: 30px;
-  height: 50px;
-  background: transparent url(../images/github-button.png) 0 0 no-repeat
+aside a.button.home {
+  padding-top: 10px;
+  height: 70px;
+  background: transparent url(/Reise-2026/assets/home-button.png) 0 0 no-repeat
 }
 
 @media only screen and (max-width: 767px) {
