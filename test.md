@@ -28,5 +28,3 @@ Noch ein Test mit dem neuen markdown editor.
 
 ![Ein blaues Auto](photos/IMG_20260719_114256.jpg)
 
-
-[Zurück zur Übersicht](/Reise-2026)
