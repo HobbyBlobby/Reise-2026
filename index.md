@@ -3,19 +3,16 @@ layout: overview
 ---
 
 # Übersicht
-Diese Seite dient als Reistagebuch. Beständiger und schöner als eine WhatsApp-Status. 
+
+Diese Seite dient als Reistagebuch, für mich und jeden, den es interessiert. Beständiger und schöner als ein WhatsApp-Status. 
 Wer gerne stöbern möchte, ist gerne dazu eingeladen. 
 
 ## Reisetagebuch: Die Kapitel
 
+Ich unterteile die Reise in kleinere Kapitel. Eine Übersicht ist hier zu finden.
+
 <ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="/Reise-2026{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
-    </li>
     <li><a href="./test">Testseite</a>
         <p>Some test content to explorer capabilities.</p>
     </li>
-  {% endfor %}
 </ul>
