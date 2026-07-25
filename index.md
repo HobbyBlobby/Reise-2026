@@ -11,8 +11,8 @@ Wer gerne stöbern möchte, ist gerne dazu eingeladen.
 
 Ich unterteile die Reise in kleinere Kapitel. Eine Übersicht ist hier zu finden.
 
-<ul>
+<ol>
     <li><a href="./test">Testseite</a>
         <p>Some test content to explorer capabilities.</p>
     </li>
-</ul>
+</ol>
