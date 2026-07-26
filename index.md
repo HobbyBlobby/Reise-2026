@@ -16,3 +16,7 @@ Ich unterteile die Reise in kleinere Kapitel. Eine Übersicht ist hier zu finden
         <p>Am ersten Tag gab es nur einen ganz kurzen Zwischenstopp in München. Vorher dafür Zittern, ob alle Anschlüsse klappen. </p>
     </li>
 </ol>
+
+## Verlauf der Reise (bis jetzt)
+
+![Karte mit Reisefortschritt](photos/FortschrittKarte.jpg)
