@@ -22,6 +22,20 @@ Das ist wirklich nur ein kurzer Zwischenstopp. Es reicht noch nicht einmal für 
 
 ![Englischer Garten in München](photos/IMG_20260726_151519.jpg)
 
+Im Englischen Garten gibt es zwei Flüsse. Der Schwabinger Bach lädt zum Baden und Füße reinhalten ein. Auch ich habe das getan. Ist schon lustig, wenn man da im Wasser steht und lauter Münchener vorbei treiben. 
+
+![Füße im Wasser](photos/IMG_20260726_161424.jpg)
+
+![Baden im Schwabinger Bach](photos/IMG_20260726_160947.jpg)
+
+----
+
+Wer es etwas wilder mag, steuert den Eisbach an. Eine Baden in der Strömung, andere nutzen die stehende Welle zum Surfen. Der Eisbach ist dafür auch schon in den [Medien](https://www.tagesschau.de/inland/eisbachwelle-muenchen-100.html) gelandet.
+
+<iframe width="80%" height="auto" style="margin-inline:auto;"
+src="https://www.youtube.com/embed/jYjGoC_eBek">
+</iframe>
+
 ----
 
 Dort habe ich mir eine Brezn mit Obazda (oder Obatzda oder Obatzta) geleistet. Passend mit Hängematte zum Entspannen. Sehr zu empfehlen. 
