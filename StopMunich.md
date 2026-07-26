@@ -32,5 +32,7 @@ Dort habe ich mir eine Brezn mit Obazda (oder Obatzda oder Obatzta) geleistet. P
 
 Dieser Weg hat Erinnerungen geweckt. Eigentlich schöne, wenn ich an das tolle Team von Kollegen (besser: Freunden) denke. Dort ging es entlang vom Odeonsplatz zur MPG.
 
-![Der Weg zur MPG](photos/IMG_20260726_151519.jpg)
+
+
+![Der Weg zur MPG](photos/IMG_20260726_150418.jpg)
 
