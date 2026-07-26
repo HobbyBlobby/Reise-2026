@@ -62,3 +62,12 @@ Dieser Weg hat Erinnerungen geweckt. Eigentlich schöne, wenn ich an das tolle T
 
 ## Abreise aus München
 
+Ich möchte zum Abschluss des ersten Kapitels noch mein Hotel vorstellen. 
+
+![NightJet](photos/IMG_20260726_195755.jpg)
+
+Und natürlich mein komfortables Zimmer. 
+
+![Schlafzimmer](photos/IMG_20260726_195927.jpg)
+
+Wo ich in meinem fahrenden Hotel aufwache, wird dann im nächsten Kapitel erzählt. 
