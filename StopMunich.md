@@ -32,6 +32,8 @@ Im Englischen Garten gibt es zwei Flüsse. Der Schwabinger Bach lädt zum Baden 
 
 Wer es etwas wilder mag, steuert den Eisbach an. Eine Baden in der Strömung, andere nutzen die stehende Welle zum Surfen. Der Eisbach ist dafür auch schon in den [Medien](https://www.tagesschau.de/inland/eisbachwelle-muenchen-100.html) gelandet.
 
+![Schwimmen im Eisbach](photos/IMG_20260726_163421.jpg)
+
 <iframe width="100%" height="auto" style="margin-inline:auto;"
 src="https://www.youtube.com/embed/jYjGoC_eBek">
 </iframe>
@@ -49,4 +51,14 @@ Dieser Weg hat Erinnerungen geweckt. Eigentlich schöne, wenn ich an das tolle T
 
 
 ![Der Weg zur MPG](photos/IMG_20260726_150418.jpg)
+
+## Touristische Impressionen aus München
+
+![Neues Rathaus München](photos/IMG_20260726_144228.jpg)
+
+![Münchner Dom](photos/IMG_20260726_143350.jpg)
+
+![Hofpfisterei](photos/IMG_20260726_165759.jpg)
+
+## Abreise aus München
 
