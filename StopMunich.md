@@ -32,7 +32,7 @@ Im Englischen Garten gibt es zwei Flüsse. Der Schwabinger Bach lädt zum Baden 
 
 Wer es etwas wilder mag, steuert den Eisbach an. Eine Baden in der Strömung, andere nutzen die stehende Welle zum Surfen. Der Eisbach ist dafür auch schon in den [Medien](https://www.tagesschau.de/inland/eisbachwelle-muenchen-100.html) gelandet.
 
-<iframe width="80%" height="auto" style="margin-inline:auto;"
+<iframe width="100%" height="auto" style="margin-inline:auto;"
 src="https://www.youtube.com/embed/jYjGoC_eBek">
 </iframe>
 
