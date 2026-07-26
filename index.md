@@ -12,10 +12,7 @@ Wer gerne stöbern möchte, ist gerne dazu eingeladen.
 Ich unterteile die Reise in kleinere Kapitel. Eine Übersicht ist hier zu finden.
 
 <ol>
-    <li><a href="./test">Testseite</a>
-        <p>Some test content to explorer capabilities.</p>
-    </li>
     <li><a href="./StopMunich">Start der Reise</a>
-        <p>Am ersten Tag hab es nur einen ganz kurzen Zwischenstopp in München. Vorher dafür Zittern, ob alle Anschlüsse klappen. </p>
+        <p>Am ersten Tag gab es nur einen ganz kurzen Zwischenstopp in München. Vorher dafür Zittern, ob alle Anschlüsse klappen. </p>
     </li>
 </ol>
