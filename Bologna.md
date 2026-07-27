@@ -58,4 +58,15 @@ Wenn man nur in der Altstadt herumläuft vergisst man schnell, dass die Stadt ru
 
 ![Überblick über Bologna](photos/IMG_20260727_125852.jpg)
 
+## Kino unter den Sternen
+
+Aktuell gibt es ein [Kinofestival](https://cinetecadibologna.it/programmazione/proiezione/ce-ancora-domani/?repeat=22213&festival=sotto-le-stelle-del-cinema-2026). Teil davon ist eine riesige Leinwand, eine Menge Stühle und jeden Abend ein anderer italienischer Film.
+
+![Filmfestival in Bologna](photos/IMG_20260727_213128.jpg)
+ 
+Ich habe entdeckt, dass der heutige Film zufällig einen englischen Untertitel hat, also bin ich hin. Eine tolle Kombination aus Arte-Filmfeeling (Originalsprache mit Untertitel und sogar schwarz-weiß) und Festival-Stimmung. Ich habe eher am Rand in einer Bar gesessen, so gab es immer etwas zu treiben beim Schauen. Großartiger Abend. 
+
+![Hauptstraße voller Leute nach Mitternacht](photos/IMG_20260728_000027.jpg)
+
+
 **Ich bin einen weiteren Tag in Bologna, es lohnt sich also, in dieses Kapitel demnächst noch einmal reinzuschauen**
