@@ -101,7 +101,7 @@ Wichtig: modern meine hier hauptsächlich die 60er und 70er Jahre, nicht Gegenwa
 
 Eine Installation möchte ich euch noch zeigen in einem kurzen Video. Warum weiß ich nicht, aber ist schon ganz schöner Käse (Mozzarella). 
 
-<iframe width="100%" height="auto" style="margin-inline:auto;"
+<iframe width="100%" height="500px" style="margin-inline:auto;"
 src="https://www.youtube.com/embed/-3r9QtkwcaU">
 </iframe>
 
