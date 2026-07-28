@@ -77,7 +77,7 @@ Heute war mir erst einmal nach Park, speziell der Margherita Garten. Gleich am E
 
 ----
 
-Hier in der Gegend gibt es sehr viele riesige, alte**Z**edern in denen die **Z**irkaden wirklich laut **z**irpen. Dieser riesige Baum ist allerdings eine **Z**ypresse. Allerdings eine für die Region eher untypische Art. Das ist ein [Riesenmammutbaum](https://de.wikipedia.org/wiki/Riesenmammutbaum) (Sequoiadendron giganteum), der wohl immerhin schon über 150 Jahre hier steht.
+Hier in der Gegend gibt es sehr viele riesige, alte **Z**edern in denen die **Z**irkaden wirklich laut **z**irpen. Dieser riesige Baum ist eine **Z**ypresse, allerdings eine für die Region eher untypische Art. Das ist ein [Riesenmammutbaum](https://de.wikipedia.org/wiki/Riesenmammutbaum) (Sequoiadendron giganteum), der wohl immerhin schon über 150 Jahre hier steht.
 
 ![Riesenmammutbaum](photos/IMG_20260728_104734.jpg)
 
