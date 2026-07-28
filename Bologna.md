@@ -81,4 +81,62 @@ Hier in der Gegend gibt es sehr viele riesige, alte **Z**edern in denen die **Z*
 
 ![Riesenmammutbaum](photos/IMG_20260728_104734.jpg)
 
-**Ich bin einen weiteren Tag in Bologna, es lohnt sich also, in dieses Kapitel demnächst noch einmal reinzuschauen**
+## Museumsnachmittag 
+
+Tja, hätte ich Mal besser gelesen. Das Museum für Stadtgeschichte [Palazzo Pepoli](https://palazzopepoli.it/eng/) hat Dienstag einen Ruhetag. Alternativ wollte ich zum Instrumentenmuseum [San Colombano](https://genusbononiae.it/en/san-colombano-tagliavini-collection/), das macht aber erst Mittwoch auf 🤷‍♂️.
+
+Aber am Ende ist es dann das [Museum of Modern Art](https://www.museibologna.it/mambo/schede/some-information-for-visiting-the-mambo-museo-d-arte-moderna-di-bologna-3006) geworden. 
+
+Gleich vorab: das ist eine wirklich schöne Ausstellung und sicherlich auch eine bedeutende Sammlung. Falls Aussagen falsch rüberkommen: ich habe keine Ahnung von Kunst 😎.
+
+Die Ausstellung besteht aus drei Bereichen. 
+
+### Vorstellung verschiedener, moderner Künstler
+
+Das war, für mich, der interessanteste Teil. Abwechslungsreich gab es von verschiedenen Künstlern jeweils ein Signaturwerk zu sehen und in Text einige Worte über die Bedeutung des Künstlers. 
+
+![Ausstellungsraum der modernen Kunst](photos/IMG_20260728_153818.jpg)
+
+Wichtig: modern meine hier hauptsächlich die 60er und 70er Jahre, nicht Gegenwartskunst. Das ist daher interessant, weil es in den 70er Jahren in Italien heiß herging. Die Zeit war geprägt von Terrorismus, Aufständen und Unruhen. Das konnte man dann in den Werken reflektiert sehen. 
+
+Eine Installation möchte ich euch noch zeigen in einem kurzen Video. Warum weiß ich nicht, aber ist schon ganz schöner Käse (Mozzarella). 
+
+<iframe width="100%" height="auto" style="margin-inline:auto;"
+src="https://www.youtube.com/embed/-3r9QtkwcaU">
+</iframe>
+
+### Sammlung zu Gergio Morandi
+
+Morandi lebte Ende 19 Jhd., Anfang 20 Jhd. Er hat als berühmter Sohn der Stadt Bologna eine eigene feste Ausstellung bekommen. Er hat viele Landschaften und Stilleben zu Papier gebracht. 
+
+![Morandi Stillleben](photos/IMG_20260728_161755.jpg)
+
+Das hat mich nicht so sehr abgeholt. Und nach der 50. Vase ist man dann auch etwas schneller vorbei gelaufen. 
+
+Fairweise muss man sagen, dass er die Radierung auf Zinkplatten technisch ziemlich gut konnte, was ihn wohl hauptsächlich berühmt machte. Die Details waren teilweise schon beeindruckend. 
+
+![Regierung Morandi](photos/IMG_20260728_162434.jpg)
+
+### Temopoäre Ausstellung zu Giuseppe Chiari
+
+Diesem Künstler wurde eine eigene Ausstellung gewidmet. Er gehört wohl wirklich zu den Gegenwartskünstlern, verstorben 2007.
+
+Ich war erst froher Erwartung, er hat sich der Musik, speziell den Klavier gewidmet. Leider stellte sich dann heraus, dass das in seinem Fall bedeutet, dass er schöne Instrumente zerstört und Noten beschmiert. 
+
+![Instrumente gespielt von Chiari](photos/IMG_20260728_164424.jpg)
+
+Auch der Videoausschnitt zeigt Chiari eher, wie er wie ein Kleinkind die Tasten entdeckt. Mir ist bewusst, dass er das als Performance, nicht als Musik, aufgeführt hat, bzw. als Film aufgezeichnet hat. Aber für mich ist das nichts. 
+
+----
+
+Es war am Ende trotzdem ein amüsanter und interessanter Nachmittag. 
+
+![gefährlicher Ausgang](photos/IMG_20260728_144205.jpg)
+
+----
+
+Zum Abschluss geht es heute noch einmal zum Open Air Kino. Der Aufenthalt ist wirklich perfekt mit dem Festival abgestimmt. Ich freue mich drauf.
+
+## Abschied aus Bologna, 29. Juli
+
+Heute ziehe ich weiter. Wohin mich der Zug bringen wir, zeigt das nächste Kapitel.
