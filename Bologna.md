@@ -137,6 +137,13 @@ Es war am Ende trotzdem ein amüsanter und interessanter Nachmittag.
 
 Zum Abschluss geht es heute noch einmal zum Open Air Kino. Der Aufenthalt ist wirklich perfekt mit dem Festival abgestimmt. Ich freue mich drauf.
 
+Für euch gibt es auch noch ein wenig Kino. Hier sind noch ein paar Bilder auf Bologna, viel Spaß.
+
+<iframe width="100%" height="500px" style="margin-inline:auto;"
+src="https://www.youtube.com/embed/vSdCyT7Cumk">
+</iframe>
+
+
 ## Abschied aus Bologna, 29. Juli
 
 Heute ziehe ich weiter. Wohin mich der Zug bringen wir, zeigt das nächste Kapitel.
