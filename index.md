@@ -18,5 +18,8 @@ Ich unterteile die Reise in kleinere Kapitel. Eine Übersicht ist hier zu finden
      <li><a href="./Bologna">Aufenthalt in Bologna</a>
         <p>Bologna ist der erste richtige Halt auf meiner Reise. Es gibt also ordentlich Zeit, die Stadt zu entdecken.</p>
     </li>
+       <li><a href="./Genua">Aufenthalt in Genua</a>
+        <p>Eine (ehemals?) reiche Hafenstadt. Das Erkunden gestaltet sich ein wenig merkwürdig.</p>
+    </li>
 </ol>
 
