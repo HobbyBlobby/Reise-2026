@@ -106,3 +106,5 @@ Wohin es nun geht, wird in nächsten Kapitel verraten.
 ![IMG_20260730_170204](photos/IMG_20260730_170204.jpg)
 
 ![IMG_20260730_170253](photos/IMG_20260730_170253.jpg)
+
+Ich habe noch ein wenig zum Schiff gelesen. Die [GNV Aurora](https://it.wikipedia.org/wiki/GNV_Aurora) ist dieses Jahr im Januar erst in Betrieb gegangen. Die vier Motoren können mit LNG betrieben werden, GNV macht Werbung mit der Umweltfreundlichkeit des Schiffes. Es passen 600 Autos auf diese Fähre und über 1700 Passagiere. Meine Kabine ist auf Deck 9, Deck 10 ist das offene Deck mit Aussicht.
