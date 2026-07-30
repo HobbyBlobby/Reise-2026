@@ -105,4 +105,4 @@ Wohin es nun geht, wird in nächsten Kapitel verraten.
 
 ![IMG_20260730_170204](photos/IMG_20260730_170204.jpg)
 
-![IMG_20260730_143804](photos/IMG_20260730_143804.jpg)
+![IMG_20260730_170253](photos/IMG_20260730_170253.jpg)
