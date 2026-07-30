@@ -27,6 +27,8 @@ Und die Steilwände sind manchmal auch keine Felsen, sondern normale Häuserfron
 
 ![Häuser übereinander](photos/IMG_20260729_171022.jpg)
 
+Die Leute kaufen hier bestimmt auch keine Baufläche in m<sup>2</sup>, sondern ein Baukörper in m<sup>3</sup>.
+
 ## Sightseeing als klassischer Tourist 
 
 Ich habe beschlossen, ich verschaffe mir erst einmal einen Überblick und bin mit so einem als Eisenbahn getarnten Minibus gefahren. 
