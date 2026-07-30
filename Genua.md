@@ -89,7 +89,7 @@ Soweit der Disclaimer, ich möchte jetzt einfach ein paar Bilder teilen. Viel Sp
 
 ![IMG_20260730_124303](photos/IMG_20260730_124303.jpg)
 
-Beginners Korallen waren den wichtig. Da hab es verschiedene Zuchtprogramme.
+Besonders Korallen waren den wichtig. Da gab es verschiedene Zuchtprogramme.
 
 ![IMG_20260730_124121](photos/IMG_20260730_124121.jpg)
 
