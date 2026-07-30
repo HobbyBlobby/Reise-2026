@@ -77,4 +77,32 @@ Wie üblich spielt sich das Nachtleben in einer Hafenstadt am Wasser ab. Überal
 
 ----
 
-**Morgen geht es weiter in Genua, aber nur einen halben Tag**
+## Aquarium von Genua 
+
+Ich habe beschlossen, den Vormittag dieses Mal nicht mit viel Laufen zu verbringen sondern in Hafennähe zu bleiben. Sitz gibt es ein relativ großes Aquarium.
+
+Aquarium ist immer in bisschen wie Zoo. Kann man sich streiten, wie artgerechte die Haltung wirklich ist und ob die nicht sogar etwas zum Tierschutz beitragen. In diesen Aquarium haben die sehr fleißig darauf hingewiesen, wenn die eine bedrohte Art züchten und wie man generell Lebensräume schützen sollte. 
+
+Soweit der Disclaimer, ich möchte jetzt einfach ein paar Bilder teilen. Viel Spaß. 
+
+![IMG_20260730_133305](photos/IMG_20260730_133305.jpg)
+
+![IMG_20260730_124303](photos/IMG_20260730_124303.jpg)
+
+Beginners Korallen waren den wichtig. Da hab es verschiedene Zuchtprogramme.
+
+![IMG_20260730_124121](photos/IMG_20260730_124121.jpg)
+
+![IMG_20260730_114317](photos/IMG_20260730_114317.jpg)
+
+## Abfahrt aus Genua am 30. Juli
+
+Heute geht es schon weiter. Ich bin in Hafennähe geblieben, denn mein aktuelles Hotel schwimmt.
+
+![IMG_20260730_143804](photos/IMG_20260730_143804.jpg)
+
+Wohin es nun geht, wird in nächsten Kapitel verraten.
+
+![IMG_20260730_170204](photos/IMG_20260730_170204.jpg)
+
+![IMG_20260730_143804](photos/IMG_20260730_143804.jpg)
