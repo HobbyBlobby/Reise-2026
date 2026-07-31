@@ -99,12 +99,8 @@ Besonders Korallen waren den wichtig. Da gab es verschiedene Zuchtprogramme.
 
 Heute geht es schon weiter. Ich bin in Hafennähe geblieben, denn mein aktuelles Hotel schwimmt.
 
-![IMG_20260730_143804](photos/IMG_20260730_143804.jpg)
+![IMG_20260730_170253](photos/IMG_20260730_170253.jpg)
 
 Wohin es nun geht, wird in nächsten Kapitel verraten.
 
-![IMG_20260730_170204](photos/IMG_20260730_170204.jpg)
-
-![IMG_20260730_170253](photos/IMG_20260730_170253.jpg)
-
-Ich habe noch ein wenig zum Schiff gelesen. Die [GNV Aurora](https://it.wikipedia.org/wiki/GNV_Aurora) ist dieses Jahr im Januar erst in Betrieb gegangen. Die vier Motoren können mit LNG betrieben werden, GNV macht Werbung mit der Umweltfreundlichkeit des Schiffes. Es passen 600 Autos auf diese Fähre und über 1700 Passagiere. Meine Kabine ist auf Deck 9, Deck 10 ist das offene Deck mit Aussicht.
+Auf die Schifffahrt habe ich mich besonders gefreut, daher ein paar Worte mehr zu der Reise. Da das aber nicht so gut zu Genua passt, sind die Gedanken auf einer [Extraseite](/Reise-2026/ship). 
