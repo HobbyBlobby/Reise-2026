@@ -23,6 +23,8 @@ Ich unterteile die Reise in kleinere Kapitel. Eine Übersicht ist hier zu finden
     </li>
     <li><a href="./barcelona-01">Erste Eindrücke von Barcelona</a>
         <p>Wenn ich jedes Haus mit einer schönes Fassade fotografieren würde, würde ich gar nicht mehr vorankommen. Daher ist dieser Teil der Reise auch in mehrere Abschnitte unterteilt.</p>
+        <a href="./barcelona-02">Fahrrad und Flamenco</a>
+        <p>Eine tolle Stadtführung per Fahrrad und Abend eine stimmungsvolle Show. Dazwischen einfach genießen.</p>
     </li>
 </ol>
 
