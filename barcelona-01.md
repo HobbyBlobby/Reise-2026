@@ -62,3 +62,9 @@ Das war natürlich meine Welt. Die Stückauswahl war allerdings sehr, wir soll i
 Anschließend wollte ich noch schon Paella essen gehen. Die Spanier essen üblicherweise ziemlich spät zu Abend, bis Mitternacht haben die Küchen hier häufig auf. In dem eher alternativen Künstlerviertel Barri Gotic habe ich dann ein Restaurant gefunden. Allerdings hat der Hunger gar nicht für eine Paella gereicht. Ich habe einen Fischeintopf genommen. Genau so muss der frisch am Meer schmecken. Richtig gut. 
 
 ![Fischeintopf](photos/IMG_20260731_215613.jpg)
+
+### (B)Randbemerkung
+
+Etwas, was ich auch noch nicht auf Reisen gemacht habe, ich prüfe jeden Morgen die Waldbrandkarte der Regierung. Für die Stadt selber ist natürlich keine Gefahr, aber man will ja trotzdem informiert sein. 
+
+![Waldbrandkarte](photos/Screenshot_2026-08-01-09-22-14-40_58dbc85f52b32aeb51acc332613e475d.jpg)

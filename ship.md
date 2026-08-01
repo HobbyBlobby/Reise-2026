@@ -16,7 +16,7 @@ Abends habe ich mich dann einfach für mich bis spät in den Abend an die Reling
 
 ![Lesen an Deck](photos/IMG_20260730_211010.jpg)
 
-Eine Sache war allerdings etwas schwierig. Die Fähre fuhr anschließend weiter nach Marokko. Sehr viel Reisende haben anscheinend die Überfahrt ohne Kabine gebucht. Das heißt, die ganzen Gänge wurden dann als Schlaflager umgebaut. Die Leute waren alle nett und haben mich auch nicht gestört, aber es ist schon ein etwas komisches Gefühl, wenn man alleine in seine Vierbettkabine mit Bad geht und vor der Tür die Familie auf dem Boden schläft. 
+Eine Sache war allerdings etwas schwierig. Die Fähre fuhr anschließend weiter nach Marokko. Sehr viel Reisende haben anscheinend die Überfahrt ohne Kabine gebucht. Das heißt, die ganzen Gänge wurden dann als Schlaflager umgebaut. Die Leute waren alle nett und haben mich auch nicht gestört, aber es ist schon ein etwas komisches Gefühl, wenn man alleine in seine Vierbettkabine mit Bad geht und vor der Tür die Familie auf dem Boden schläft. Dazu kommt, dass die [aktuelle Situation](https://www.tagesschau.de/kommentar/kommentar-ceuta-100.html) zwischen Spanien und Marokko auch nicht ganz entspannt ist.
 
 ![Nachtlager im Gang](photos/IMG_20260731_090947.jpg)
 
