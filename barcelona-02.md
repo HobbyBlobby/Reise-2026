@@ -24,9 +24,13 @@ Los ging es auf einer prächtigen Promenade, der Passeig de Lluís Companys. An 
 
 ![Triumphbogen](photos/IMG_20260801_122631.jpg)
 
-Wir sind dann aber Richtung Park gefahren und haben uns den Bühnen angeschaut. 
+Wir sind dann aber Richtung Park gefahren und haben uns den Brunnen angeschaut. 
 
 ![Brunnen](photos/IMG_20260801_133115.jpg)
+
+Auch sehr schön: die Gewächshäuser im Park 
+
+![Gewächshäuser](photos/IMG_20260802_123646.jpg)
 
 Diese Promenade und der Park bilden das östliche Ende der Altstadt Ciutat Vella. Gestern war ich ja hauptsächlich in der Altstadt unterwegs, u.a. im gotischen Viertel. 
 

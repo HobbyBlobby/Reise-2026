@@ -25,6 +25,8 @@ Ich unterteile die Reise in kleinere Kapitel. Eine Übersicht ist hier zu finden
         <p>Wenn ich jedes Haus mit einer schönes Fassade fotografieren würde, würde ich gar nicht mehr vorankommen. Daher ist dieser Teil der Reise auch in mehrere Abschnitte unterteilt.</p>
         <a href="./barcelona-02">Fahrrad und Flamenco</a>
         <p>Eine tolle Stadtführung per Fahrrad und Abend eine stimmungsvolle Show. Dazwischen einfach genießen.</p>
+        <a href="./barcelona-03">Badetag und Wasserspaß</a>
+        <p>Erst einmal zum Strand und das Meer genießen. Anschließend per Seilbahn auf den Berg und wieder Wasser entdecken.</p>
     </li>
 </ol>
 
