@@ -40,7 +40,7 @@ Auch der alte botanische Garten (leider geschlossen, als ich vorbei kam) und die
 
 ![Kunstmuseum](photos/IMG_20260802_192001.jpg)
 
-Vielleicht passend dazu etwas zu Katalanien. Es gibt ja sogar eine Bewegung, die sich darum bemüht, dass Katalanien von Spanien unabhängig wird. Und die kulturelle Trennung von Spanien ist Recht deutlich zu spüren. Katalanisch ich die Sprache hier, Spanisch quasi die erste Fremdsprache. Die Sprache ist auch nicht nur ein Dialekt, sondern eher eine Mischung aus Spanisch, Italienisch und Französisch. Auch haben die von den offiziellen Stellen auch immer eine lokale Variante (eigenes Gericht, das oben erwähnt Kunstmuseen, ...). 
+Vielleicht passend dazu etwas zu Katalanien. Es gibt ja sogar eine Bewegung, die sich darum bemüht, dass Katalanien von Spanien unabhängig wird. Und die kulturelle Trennung von Spanien ist Recht deutlich zu spüren. Katalanisch ich die Sprache hier, Spanisch quasi die erste Fremdsprache. Die Sprache ist auch nicht nur ein Dialekt, sondern eher eine Mischung aus Spanisch, Italienisch und Französisch. Auch haben die von den offiziellen Stellen auch immer eine lokale Variante (eigenes Gericht Verwaltung, das eben genannte nationale Kunstmuseum). 
 
 ----
 
@@ -58,7 +58,7 @@ Wobei der Stierkampf inzwischen verboten ist. Daher werden die Arenen versucht a
 
 ![Einkaufszentrum](photos/IMG_20260802_195200.jpg)
 
-Interessant ist, dass oben umlaufend Restaurants und ein Panoramaweg sind.
+Interessant ist, dass oben umlaufend Restaurants und ein Panoramaweg sind. Diesen kann man kostenlos nutzen.
 
 ----
 
