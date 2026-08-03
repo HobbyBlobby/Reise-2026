@@ -12,7 +12,7 @@ Ein ganz toller Sandstrand mit sauberem Wasser und vielen Bars und Restaurants.
 
 Da ich dahin gelaufen bin, wie bis jetzt alles, habe ich vor dem Baden erst einmal gut Mittagspause gemacht. 
 
-Diese ganze Gegend (Barcelonetta) hat einen ganz anderen Charakter. Hier sind die Touristen, die zum Baden und Feiern gekommen. Dementsprechend sind auch die lokale ausgerichtet.
+Diese ganze Gegend (Barceloneta) hat einen ganz anderen Charakter. Hier sind die Touristen, die zum Baden und Feiern gekommen. Dementsprechend sind auch die lokale ausgerichtet.
 
 ## Auf zum Montjuïc
 
@@ -40,7 +40,7 @@ Auch der alte botanische Garten (leider geschlossen, als ich vorbei kam) und die
 
 ![Kunstmuseum](photos/IMG_20260802_192001.jpg)
 
-Vielleicht passend dazu etwas zu Katalanien. Es gibt ja sogar eine Bewegung, die sich darum bemüht, dass Katalanien von Spanien unabhängig wird. Und die kulturelle Trennung von Spanien ist Recht deutlich zu spüren. Katalanisch ich die Sprache hier, Spanisch quasi die erste Fremdsprache. Die Sprache ist auch nicht nur ein Dialekt, sondern eher eine Mischung aus Spanisch, Italienisch und Französisch. Auch haben die von den offiziellen Stellen auch immer eine lokale Variante (eigenes Gericht Verwaltung, das eben genannte nationale Kunstmuseum). 
+Vielleicht passend dazu etwas zu Katalanien. Es gibt ja sogar eine Bewegung, die sich darum bemüht, dass Katalanien von Spanien unabhängig wird. Und die kulturelle Trennung von Spanien ist Recht deutlich zu spüren. Katalanisch ich die Sprache hier, Spanisch quasi die erste Fremdsprache. Die Sprache ist auch nicht nur ein Dialekt, sondern eher eine Mischung aus Spanisch, Italienisch und Französisch. Auch haben die von den offiziellen Stellen auch immer eine lokale Variante (eigenes Gericht Verwaltung, das eben genannte nationale Kunstmuseum). Und wer gehofft hat, dass sich hinter .cat-Webseiten Katzenbilder verstecken, den muss ich enttäuschen. Das ist die eigene Domain für Katalonien.
 
 ----
 
