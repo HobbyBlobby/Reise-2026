@@ -82,3 +82,43 @@ src="https://www.youtube.com/embed/3tuTslqEYXQ">
 
 Ich bin dann heute auch Abend auch auf den ÖPNV umgestiegen. Am Anfang ist es sehr schön, dass man auf dem Weg zum Ziel zu Fuß viel entdeckt. Aber die Laufwege sind doch beachtlich. Es gibt für Barcelona die Hola Barcelona Travel Card, mit der man für einen gewählten Zeitraum relativ günstig alle öffentlichen Verkehrsmittel nehmen kann. 
 
+
+## Park Güell am 03. August
+
+Vormittags habe ich es mir wieder am Strand gutgehen lassen. Da gibt es nichts zu berichten. Aber am Nachmittag habe ich eine Führung durch den Park Güell mitgemacht. 
+
+![IMG_20260802_212948](photos/IMG_20260803_174209.jpg)
+
+Der Park war ein gemeinsames Projekt des Architekten Antonio Gaudi und dem Industriellen Güell. Geplant war das als Wohnanlage für Reiche mit bis zu 60 Häusern. Die Gestaltung der Häuser und Landschaft hat Gaudi übernommen. 
+
+![IMG_20260803_180329](photos/IMG_20260803_180329.jpg)
+
+Nun der Plot twist, die Reichen wollten gar nicht so weit außerhalb der Stadt wohnen, sodass das Projekt ein ziemlicher Reinfall war. Es gibt da jetzt zwei Häuser: ein tatsächlich bewohntes Haus (kann man wohl gerade kaufen) und das Haus, in dem Gaudi selber gelebt hat. 
+
+![IMG_20260803_175012](photos/IMG_20260803_175012.jpg)
+
+Ach ja, natürlich auch die Villa von Güell, die heute eine öffentliche [Grundschule](https://baldirireixac.cat/) ist.
+
+![IMG_20260803_175827](photos/IMG_20260803_175827.jpg)
+
+Das ändert natürlich nichts daran, dass der Park im Stil von Gaudi doch recht anschaulich ist. Oder wie es der Guide in Endlosschleife wiederholt hat: "Look, nice. Designed by Gaudi. Really beautiful".
+
+![IMG_20260803_180258](photos/IMG_20260803_180258.jpg)
+
+Angedacht war auch ein großer Theaterplatz, von vielen Säulen getragen. Zwischen diesen Säulen sollte dann ein Markt sein. 
+
+![IMG_20260803_182833](photos/IMG_20260803_182833.jpg)
+
+![IMG_20260803_182847](photos/IMG_20260803_182847.jpg)
+
+Auch die geplante Kapelle wurde nie gebaut, an der Stelle stehen nur drei Kreuze. 
+
+![IMG_20260803_190848](photos/IMG_20260803_190848.jpg)
+
+Das Aushängeschild direkt am Eingang der Anlage waren ein Wachhaus und das Haus des Gärtners. 
+
+![IMG_20260803_181244](photos/IMG_20260803_181244.jpg)
+
+Schon insgesamt beeindruckend und gleichzeitig so daneben gegangen. Zumindest ist es eine touristische Attraktion, die sehr viele Besucher anlockt.
+
+![IMG_20260803_185459](photos/IMG_20260803_185459.jpg)
