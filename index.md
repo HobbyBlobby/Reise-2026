@@ -28,6 +28,9 @@ Ich unterteile die Reise in kleinere Kapitel. Eine Übersicht ist hier zu finden
         <a href="./barcelona-03">Badetag und Wasserspaß</a>
         <p>Erst einmal zum Strand und das Meer genießen. Anschließend per Seilbahn auf den Berg und wieder Wasser entdecken. Auch in diesem Kapitel: der Park Güell.</p>
     </li>
+     <li><a href="./paris">Petit Félix à Paris</a>
+        <p>Paris ist wirklich eine riesige Stadt mit riesigen Gebäuden, Plätzen und Straßen. Ich erkunde einige von ihnen.</p>
+    </li>
 </ol>
 
 
