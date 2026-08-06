@@ -84,6 +84,8 @@ Eine Anmerkung zum Busfahren. Das klappt alles ziemlich gut, aber die Haltestell
 
 ![IMG_20260805_142418](photos/IMG_20260805_142418.jpg)
 
+Noch interessant: Man muss sich beim Ticketkauf entscheiden, ob man Metro und Regionalbahn fahren will, oder Bus und Straßenbahn. Das sind unterschiedliche Tarife. Eine Ausnahme ist das Tagesticket, damit kann man dann wieder alles fahren. 
+
 ----
 
 Weiter auf der Runde ging es zur Kathedrale Notre Dame. Diese Kirche liegt auf einer Insel und ist in einer wirklich schönen Gegend. Ihr habt schon gemerkt, ich berichte gar nicht aus dem Inneren, was an der Schlange vor dem Eingang liegt. 
