@@ -102,4 +102,10 @@ Abschluss des Tages, und des Urlaubs, bildet ein schönes Abendessen in Montmart
 
 Ich weiß, dass ich natürlich von Paris nur einen winzigen Teil gesehen habe, auch weil ich mich natürlich auf die touristischen Highlights gestürzt habe. Aber dieser erste Eindruck war schon sehr gut.
 
-Zurück geht es mit dem Zug, erst der TGV, dann weiter im ICE. Das letzte Stückchen von Leipzig mit den üblichen Bummelzügen. 
+![IMG_20260806_085458](photos/IMG_20260806_085458.jpg)
+
+Zurück geht es mit dem Zug, erst der TGV, dann weiter im ICE. Ich möchte anmerken, dass der TGV pünktlich abgefahren ist. Auch kein anderer Zug auf der Anzeigetafel hatte Verspätung angekündigt. Dafür sind wir dann in Deutschland eine Stunde zu spät eingefahren, den Umstieg von 73 Minuten habe ich damit R8echt gut ausgenützt.
+
+![Screenshot_2026-08-06-12-58-59-01_d5166e66973e25d6a9a34fb591e40ee6](photos/Screenshot_2026-08-06-12-58-59-01_d5166e66973e25d6a9a34fb591e40ee6.jpg)
+
+Das letzte Stückchen von Leipzig mit den üblichen Bummelzügen. 
